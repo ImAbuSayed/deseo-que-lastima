@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deseo-que-lastima/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Deseo que lastima](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-que-lastima/) |
+| **Get License** | [Obtain a Music License for Deseo que lastima](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-que-lastima/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The way you move your body pulls me right across the room
+> I’m drunk on the attraction, breathing in your sweet perfume
+> We’re stepping to the rhythm, getting heavy on the bass
+> This desire hurts so good, I can see it on your face
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
