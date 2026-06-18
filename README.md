@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deseo-que-lastima/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Deseo que lastima](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-que-lastima/) |
+| **Get License** | [License this song: Deseo que lastima](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-que-lastima/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2912de60cd77cf7fd2e8fccde6fbe9610409dd183f7c04e0995a8d3177e79bd9` |
 | **Timestamp** | June 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

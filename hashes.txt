@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Deseo que lastima
+
+This log tracks the cryptographic history and versioning for the song **Deseo que lastima** (deseo-que-lastima).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T20:22:28.821705 | `v1` | `2912de60cd77cf7fd2e8fccde6fbe9610409dd183f7c04e0995a8d3177e79bd9` | `5bef149e15c6963a9fdaf04da38d425ee4b724cc807349d292c735918c4ce34e` | `2026-06-18_deseo-que-lastima-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
